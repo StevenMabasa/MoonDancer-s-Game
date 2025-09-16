@@ -39,6 +39,6 @@
 ### Run locally 
 # clone
 git clone https://github.com/StevenMabasa/MoonDancer-s-Game.git
-cd threejs-artifact-runner
+cd MoonDancer-s-Game
 
 # open html file in browser
